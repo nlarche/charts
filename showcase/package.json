@@ -1,0 +1,17 @@
+{
+  "name": "@charts/showcase",
+  "version": "1.0.0",
+  "description": "Charts showcase",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.3.0",
+    "vite": "^5.4.4"
+  },
+  "dependencies": {
+    "@charts/lib": "workspace:",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
